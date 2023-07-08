@@ -1,7 +1,7 @@
 {
   "name": "node_project_for_port_test",
   "version": "1.0.0",
-  "description": "",
+  "description": "To build a simple Node.js web app, you can follow these steps:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
